@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f480b59-9673-45a6-9ec4-45b5ef0104e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YAjSZsOfpj9PrJ2XeJjL1VJD01" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.robson" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RegistroDeVendas">
+    <configuration name="CadastroDeLivros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.robson.livraria.teste.CadastroDeLivros" />
+      <module name="livro-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.robson.livraria.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraDeEstoque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.robson.livraria.teste.CalculadoraDeEstoque" />
+      <module name="livro-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.robson.livraria.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Livro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.robson.livraria.produtos.Livro" />
+      <module name="livro-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.robson.livraria.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistroDeVendas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.robson.livraria.teste.RegistroDeVendas" />
+      <module name="livro-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.robson.livraria.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegrasDeDesconto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.robson.livraria.teste.RegrasDeDesconto" />
+      <module name="livro-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.robson.livraria.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CadastroDeLivros" />
+      <item itemvalue="Application.CalculadoraDeEstoque" />
+      <item itemvalue="Application.Livro" />
+      <item itemvalue="Application.RegistroDeVendas" />
+      <item itemvalue="Application.RegrasDeDesconto" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RegistroDeVendas" />
+        <item itemvalue="Application.RegrasDeDesconto" />
+        <item itemvalue="Application.CadastroDeLivros" />
+        <item itemvalue="Application.Livro" />
+        <item itemvalue="Application.CalculadoraDeEstoque" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f480b59-9673-45a6-9ec4-45b5ef0104e1" name="Default Changelist" comment="" />
+      <created>1582392294005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582392294005</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="59" width="376" height="535" key="#com.intellij.ide.util.MemberChooser" timestamp="1582834320811">
+      <screen x="0" y="0" width="1280" height="774" />
+    </state>
+    <state x="378" y="59" width="376" height="535" key="#com.intellij.ide.util.MemberChooser/0.0.1280.774@0.0.1280.774" timestamp="1582834320811" />
+    <state width="1234" height="187" key="GridCell.Tab.0.bottom" timestamp="1582992170923">
+      <screen x="0" y="0" width="1280" height="774" />
+    </state>
+    <state width="1234" height="187" key="GridCell.Tab.0.bottom/0.0.1280.774@0.0.1280.774" timestamp="1582992170923" />
+    <state width="1234" height="187" key="GridCell.Tab.0.center" timestamp="1582992170922">
+      <screen x="0" y="0" width="1280" height="774" />
+    </state>
+    <state width="1234" height="187" key="GridCell.Tab.0.center/0.0.1280.774@0.0.1280.774" timestamp="1582992170922" />
+    <state width="1234" height="187" key="GridCell.Tab.0.left" timestamp="1582992170921">
+      <screen x="0" y="0" width="1280" height="774" />
+    </state>
+    <state width="1234" height="187" key="GridCell.Tab.0.left/0.0.1280.774@0.0.1280.774" timestamp="1582992170921" />
+    <state width="1234" height="187" key="GridCell.Tab.0.right" timestamp="1582992170923">
+      <screen x="0" y="0" width="1280" height="774" />
+    </state>
+    <state width="1234" height="187" key="GridCell.Tab.0.right/0.0.1280.774@0.0.1280.774" timestamp="1582992170923" />
+    <state x="136" y="20" key="SettingsEditor" timestamp="1582406289010">
+      <screen x="0" y="0" width="1280" height="774" />
+    </state>
+    <state x="136" y="20" key="SettingsEditor/0.0.1280.774@0.0.1280.774" timestamp="1582406289010" />
+    <state x="347" y="281" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582421565616">
+      <screen x="0" y="0" width="1280" height="774" />
+    </state>
+    <state x="347" y="281" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.774@0.0.1280.774" timestamp="1582421565616" />
+    <state x="15" y="0" width="1241" height="773" key="new project wizard" timestamp="1583165293865">
+      <screen x="0" y="0" width="1280" height="774" />
+    </state>
+    <state x="15" y="0" width="1241" height="773" key="new project wizard/0.0.1280.774@0.0.1280.774" timestamp="1583165293865" />
+  </component>
+</project>
